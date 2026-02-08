@@ -1,0 +1,69 @@
+{
+  "clauses": [
+    {
+      "clause_type": "parties",
+      "title": "Parties",
+      "summary": "Identifies the landlord and tenant, establishing who is entering into the lease agreement.",
+      "obligations": [
+        "Tenant must ensure their name and contact information are accurate."
+      ],
+      "risks": [
+        "Incorrect identification can lead to legal issues or invalidation of the lease."
+      ],
+      "severity": "medium",
+      "original_text": "1. PARTIES. This Residential Lease Agreement (“Agreement”) made this ___________ is between: Landlord Name: ____________________________________________ with a mailing address of: _________________________________________________ (“Landlord”), AND Tenant Name(s): ____________________________________________ (“Tenant(s)”). Landlord and Tenant are each collectively referred to as the \"Parties.\""
+    },
+    {
+      "clause_type": "property",
+      "title": "Property",
+      "summary": "Describes the property being leased, including its address and type, ensuring clarity on the premises.",
+      "obligations": [
+        "Tenant should verify the property details match the actual premises."
+      ],
+      "risks": [
+        "Discrepancies in property details can lead to disputes or invalidation of the lease."
+      ],
+      "severity": "medium",
+      "original_text": "2. PROPERTY. The Landlord agrees to lease the described property to the Tenant: Address: ______________________________________________________ (“Premises”). Residence Type: ☐ Single-family ☐ Apartment ☐ Condominium ☐ Other: ____________"
+    },
+    {
+      "clause_type": "term",
+      "title": "Term",
+      "summary": "Specifies the start and end dates of the lease, defining the duration of the tenancy.",
+      "obligations": [
+        "Tenant must adhere to the lease term and vacate the premises by the end date."
+      ],
+      "risks": [
+        "Failing to vacate by the end date can result in penalties or legal action."
+      ],
+      "severity": "high",
+      "original_text": "3. TERM. The Agreement shall begin on _________________ and end on _________________ (“Term”)."
+    },
+    {
+      "clause_type": "rent",
+      "title": "Rent",
+      "summary": "Details the monthly rent amount, due date, and payment instructions, ensuring timely payments.",
+      "obligations": [
+        "Tenant must pay the rent on time and follow the specified payment instructions."
+      ],
+      "risks": [
+        "Late or missed payments can result in late fees, eviction, or damage to credit score."
+      ],
+      "severity": "high",
+      "original_text": "4. RENT. The Tenant shall pay the Landlord in equal monthly installments of $___________ (“Rent”). The Rent shall be due on the ____ of every month and paid under the following instructions: ___________________________________________________________________________."
+    },
+    {
+      "clause_type": "security_deposit",
+      "title": "Security Deposit",
+      "summary": "Specifies whether a security deposit is required and the conditions for its return, protecting against damages.",
+      "obligations": [
+        "Tenant must pay the security deposit if required and understand the conditions for its return."
+      ],
+      "risks": [
+        "Failure to pay the deposit can result in lease termination, and disputes over deductions can arise."
+      ],
+      "severity": "medium",
+      "original_text": "5. SECURITY DEPOSIT. The Tenant (check one): ☐ Shall deposit with the Landlord the sum of $___________ as security for any damage caused to the Premises during the Term. Such deposit shall be returned to the Tenant, less any itemized deductions, within ______ days after the end of the Term. ☐ Shall NOT be required to pay a security deposit."
+    }
+  ]
+}

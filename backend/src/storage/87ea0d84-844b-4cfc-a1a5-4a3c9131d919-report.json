@@ -1,0 +1,101 @@
+{
+  "clauses": [
+    {
+      "clause_type": "Lease Term",
+      "title": "Lease Renewal",
+      "summary": "The lease lasts 12 months and automatically renews if both parties agree. You must provide 60 days’ notice if you don’t want to renew, giving you time to find a new place.",
+      "obligations": [
+        "Provide 60 days’ notice to renew or not renew.",
+        "Agree to terms for renewal (if applicable)."
+      ],
+      "risks": [
+        "May be locked into another 12-month term if you don't give notice."
+      ],
+      "severity": "low",
+      "original_text": "Renewal requires agreement by both parties or written notice 60 days before expiration.",
+      "score": 75
+    },
+    {
+      "clause_type": "Rent Payment",
+      "title": "Fixed Rent",
+      "summary": "Your monthly rent is fixed for the lease term, providing budget predictability. Rent can only increase upon renewal with 60 days’ notice.",
+      "obligations": [
+        "Pay rent on the first of each month."
+      ],
+      "risks": [
+        "Rent may increase at renewal."
+      ],
+      "severity": "low",
+      "original_text": "Monthly rent is due on the first day of each month. The rent amount remains fixed during the lease term. Changes may only occur during renewal with at least 60 days written notice.",
+      "score": 85
+    },
+    {
+      "clause_type": "Late Charges",
+      "title": "Late Fee",
+      "summary": "You have a 5-day grace period to pay rent without penalty. A flat $50 late fee applies if rent is late, which is reasonable.",
+      "obligations": [
+        "Pay rent within 5 days of the due date."
+      ],
+      "risks": [
+        "A $50 fee if rent is more than 5 days late."
+      ],
+      "severity": "low",
+      "original_text": "If rent is not received within a 5nday grace period, a late fee of $50 may be charged. No additional daily late fees apply.",
+      "score": 80
+    },
+    {
+      "clause_type": "Security Deposit",
+      "title": "Security Deposit Return",
+      "summary": "You’ll get your security deposit back within 30 days of moving out, minus any itemized deductions for damage beyond normal wear and tear. This gives you a reasonable timeframe to receive your funds.",
+      "obligations": [
+        "Leave the property in good condition."
+      ],
+      "risks": [
+        "Potential deductions from the deposit for damages."
+      ],
+      "severity": "low",
+      "original_text": "A security deposit is required before movenin. The deposit will be returned within 30 days after movenout minus itemized deductions for damages beyond normal wear and tear.",
+      "score": 70
+    },
+    {
+      "clause_type": "Maintenance and Repairs",
+      "title": "Landlord Repair Obligations",
+      "summary": "The landlord is responsible for major repairs, including structural components and appliances. You should promptly report maintenance issues to ensure timely fixes.",
+      "obligations": [
+        "Report maintenance concerns promptly."
+      ],
+      "risks": [
+        "Delays in repair if you don't report issues."
+      ],
+      "severity": "low",
+      "original_text": "Owner is responsible for structural components, plumbing, electrical systems, major appliances, and heating/cooling systems. Resident agrees to maintain cleanliness and promptly report maintenance concerns.",
+      "score": 75
+    },
+    {
+      "clause_type": "Right of Entry",
+      "title": "Landlord Entry",
+      "summary": "The landlord needs to give you at least 24 hours’ notice before entering your unit, except in emergencies. This protects your privacy and allows you to prepare for visits.",
+      "obligations": [],
+      "risks": [
+        "Landlord may enter with 24 hours’ notice."
+      ],
+      "severity": "low",
+      "original_text": "Owner must provide at least 24 hours notice before entering the premises except in emergencies involving safety or property damage.",
+      "score": 80
+    },
+    {
+      "clause_type": "Early Termination",
+      "title": "Early Lease Termination",
+      "summary": "You can break the lease early by giving 60 days’ notice and paying a fee equal to one month’s rent. This provides flexibility if you need to move before the lease ends.",
+      "obligations": [
+        "Provide 60 days’ written notice."
+      ],
+      "risks": [
+        "Pay one month’s rent as a termination fee."
+      ],
+      "severity": "low",
+      "original_text": "Resident may terminate the lease early by providing 60 days written notice and paying a termination fee equal to one month of rent.",
+      "score": 70
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "clauses": [
+    {
+      "clause_type": "term",
+      "title": "Lease Term",
+      "summary": "This clause defines the start and end dates of the lease agreement. Knowing the term is crucial for planning and understanding your commitment to the property.",
+      "obligations": [
+        "Tenant must occupy the premises for the full term.",
+        "Tenant is responsible for rent throughout the term."
+      ],
+      "risks": [
+        "Potential for renewal issues if not addressed before the end of the term."
+      ],
+      "severity": "low",
+      "original_text": "The Agreement shall begin on _________________ and end on _________________ (“Term”).",
+      "score": 80
+    },
+    {
+      "clause_type": "rent",
+      "title": "Rent Payment",
+      "summary": "This clause specifies the monthly rent amount and due date. Timely rent payment avoids late fees and potential eviction proceedings.",
+      "obligations": [
+        "Tenant must pay the specified rent amount.",
+        "Tenant must pay rent on the specified date each month."
+      ],
+      "risks": [
+        "Late payment fees if rent is not paid on time."
+      ],
+      "severity": "low",
+      "original_text": "The Tenant shall pay the Landlord in equal monthly installments of $___________ (“Rent”). The Rent shall be due on the ____ of every month and paid under the following instructions: ____________________________________________________________________________.",
+      "score": 75
+    },
+    {
+      "clause_type": "security_deposit",
+      "title": "Security Deposit",
+      "summary": "This clause outlines the security deposit amount and the conditions for its return. The deposit protects the landlord against damage beyond normal wear and tear.",
+      "obligations": [
+        "Tenant must pay the security deposit (if required).",
+        "Tenant must leave the premises in good condition."
+      ],
+      "risks": [
+        "Potential for deductions from the deposit for damages."
+      ],
+      "severity": "low",
+      "original_text": "The Tenant (check one):\n☐ Shall deposit with the Landlord the sum of $___________ as security for any damage caused\nto the Premises during the Term. Such deposit shall be returned to the Tenant, less any itemized\ndeductions, within ______ days after the end of the Term.",
+      "score": 70
+    }
+  ]
+}

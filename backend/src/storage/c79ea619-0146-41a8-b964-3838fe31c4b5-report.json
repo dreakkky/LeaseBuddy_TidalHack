@@ -1,0 +1,215 @@
+{
+  "clauses": [
+    {
+      "clause_type": "assignment",
+      "title": "Owner Assignment",
+      "summary": "The Owner can transfer or assign the lease agreement to a new owner at any time without notifying you. This means a new landlord could take over during your lease term, but your obligations remain the same.",
+      "obligations": [
+        "Continue paying rent to the new owner.",
+        "Continue adhering to lease terms."
+      ],
+      "risks": [
+        "New landlord may be less responsive or have different management styles."
+      ],
+      "severity": "low",
+      "original_text": "The Owner may assign or transfer this agreement at any time without notifying the Resident.",
+      "score": 75
+    },
+    {
+      "clause_type": "renewal",
+      "title": "Automatic Renewal",
+      "summary": "The lease automatically renews for another year unless you give 120 days' notice before the lease ends. This requires proactive planning to avoid being locked into another year if you plan to move.",
+      "obligations": [
+        "Provide 120 days' written notice to terminate."
+      ],
+      "risks": [
+        "Forgetting to provide notice results in another year's commitment."
+      ],
+      "severity": "medium",
+      "original_text": "The lease term begins on the start date listed and automatically renews for additional 12nmonth periods unless the Resident submits written termination notice at least 120 days prior to expiration.",
+      "score": 60
+    },
+    {
+      "clause_type": "rent_increase",
+      "title": "Rent Modification",
+      "summary": "The Owner can increase your rent with only 7 days' notice. This provides limited time to adjust your budget for a rent increase during the lease term.",
+      "obligations": [
+        "Pay the increased rent amount."
+      ],
+      "risks": [
+        "Unexpected rent increases can strain your budget."
+      ],
+      "severity": "medium",
+      "original_text": "The Owner may modify the monthly rent amount at any time with written or electronic notice delivered 7 days prior to the next payment due date.",
+      "score": 50
+    },
+    {
+      "clause_type": "late_fee",
+      "title": "Late Charges",
+      "summary": "A $150 late fee applies if rent isn't paid by 11:59 PM on the due date, with an additional $50 per day. This is a relatively high late fee, and the daily accrual can add up quickly.",
+      "obligations": [
+        "Pay rent by 11:59 PM on the due date."
+      ],
+      "risks": [
+        "High late fees can quickly become expensive."
+      ],
+      "severity": "medium",
+      "original_text": "If rent is not received by 11:59 PM on the due date, a late charge of $150 is applied. An additional $50 accrues daily until full payment is received.",
+      "score": 55
+    },
+    {
+      "clause_type": "security_deposit",
+      "title": "Security Deposit Use",
+      "summary": "The Owner can use your security deposit for any cleaning, maintenance, repainting, or administrative expenses they deem necessary. This gives the Owner broad discretion in determining what constitutes a valid deduction.",
+      "obligations": [
+        "Pay the required security deposit."
+      ],
+      "risks": [
+        "Potential for deductions beyond normal wear and tear."
+      ],
+      "severity": "medium",
+      "original_text": "The security deposit may be retained by the Owner for any cleaning, maintenance, repainting, or administrative expenses determined necessary by the Owner.",
+      "score": 60
+    },
+    {
+      "clause_type": "maintenance",
+      "title": "Maintenance Responsibility",
+      "summary": "You are responsible for *all* maintenance and repairs, including plumbing, electrical, and structural issues. This is more responsibility than typically assigned to a tenant, potentially leading to significant out-of-pocket expenses.",
+      "obligations": [
+        "Handle all maintenance and repairs."
+      ],
+      "risks": [
+        "Significant repair costs can add up quickly."
+      ],
+      "severity": "high",
+      "original_text": "Resident is responsible for all maintenance and repairs to the premises including but not limited to plumbing systems, electrical components, appliances, structural elements, and weather related damage.",
+      "score": 40
+    },
+    {
+      "clause_type": "property_condition",
+      "title": "Property Condition Acceptance",
+      "summary": "You accept the property 'as is' and the Owner isn't obligated to make repairs or improvements. This means you're stuck with existing issues, even if they're not ideal.",
+      "obligations": [
+        "Accept the property in its current condition."
+      ],
+      "risks": [
+        "Existing issues may not be addressed during the lease."
+      ],
+      "severity": "medium",
+      "original_text": "Resident accepts the property in its current condition and agrees that the Owner is not obligated to make repairs or improvements after movenin.",
+      "score": 50
+    },
+    {
+      "clause_type": "right_of_entry",
+      "title": "Owner Entry",
+      "summary": "The Owner can enter your property at any time for any reason without advance notice. This provides limited privacy and can be disruptive.",
+      "obligations": [
+        "Allow Owner access to the property."
+      ],
+      "risks": [
+        "Unexpected interruptions and limited privacy."
+      ],
+      "severity": "medium",
+      "original_text": "Owner or Owner representatives may enter the premises at any time for inspection, repairs, or other business purposes without advance notice.",
+      "score": 45
+    },
+    {
+      "clause_type": "utilities",
+      "title": "Utility Costs",
+      "summary": "You are responsible for *all* utility costs, including shared building utilities and maintenance fees determined by the Owner. This could include costs beyond your direct usage.",
+      "obligations": [
+        "Pay all utility services."
+      ],
+      "risks": [
+        "Utility costs can be higher than expected."
+      ],
+      "severity": "medium",
+      "original_text": "Resident agrees to pay all utility services connected to the property, including shared building utilities, maintenance fees, service charges, and operational costs as determined by Owner.",
+      "score": 50
+    },
+    {
+      "clause_type": "rules_and_policies",
+      "title": "Rules Modification",
+      "summary": "The Owner can change property rules at any time, and you must comply immediately. This provides limited predictability regarding property rules.",
+      "obligations": [
+        "Comply with all property rules."
+      ],
+      "risks": [
+        "Rules can change unexpectedly."
+      ],
+      "severity": "medium",
+      "original_text": "Owner may create or modify property rules at any time. Resident agrees to comply immediately with any new or revised policies.",
+      "score": 60
+    },
+    {
+      "clause_type": "early_termination",
+      "title": "Early Termination",
+      "summary": "If you move out early, you're responsible for all rent and fees through the end of the lease term. This can be costly if you need to break the lease.",
+      "obligations": [
+        "Pay rent through the end of the lease term."
+      ],
+      "risks": [
+        "Significant costs if you need to move out early."
+      ],
+      "severity": "medium",
+      "original_text": "If Resident vacates the premises before the lease ends, Resident remains responsible for all rent and fees owed through the end of the lease term.",
+      "score": 55
+    },
+    {
+      "clause_type": "liability",
+      "title": "Owner Liability",
+      "summary": "The Owner isn't responsible for personal injury, loss of property, or damages occurring on the property. This shifts the risk of most incidents to you.",
+      "obligations": [
+        "Accept risk of incidents on the property."
+      ],
+      "risks": [
+        "You bear the cost of most losses or injuries."
+      ],
+      "severity": "medium",
+      "original_text": "Owner shall not be responsible for personal injury, loss of personal property, theft, or damages occurring on the property regardless of cause.",
+      "score": 50
+    },
+    {
+      "clause_type": "insurance",
+      "title": "Renter's Insurance",
+      "summary": "You must maintain renter's insurance with coverage limits determined by the Owner, and the Owner can bill you for their insurance costs. This adds to your overall housing expenses.",
+      "obligations": [
+        "Maintain renter's insurance."
+      ],
+      "risks": [
+        "Additional insurance costs."
+      ],
+      "severity": "medium",
+      "original_text": "Resident is required to maintain renter’s insurance meeting coverage limits determined by Owner. Owner may purchase insurance on behalf of Resident and bill Resident for all associated costs.",
+      "score": 60
+    },
+    {
+      "clause_type": "cleaning",
+      "title": "Move-Out Cleaning",
+      "summary": "You must hire Owner-approved cleaning services before moving out, and you may be billed for cleaning costs in addition to deductions from your security deposit. This limits your control over cleaning costs.",
+      "obligations": [
+        "Hire Owner-approved cleaning services."
+      ],
+      "risks": [
+        "Potential for high cleaning costs."
+      ],
+      "severity": "medium",
+      "original_text": "Resident must hire cleaning services approved by Owner prior to movenout. Charges may be deducted from deposit or billed additionally.",
+      "score": 55
+    },
+    {
+      "clause_type": "dispute_resolution",
+      "title": "Dispute Resolution",
+      "summary": "All disputes must be resolved through arbitration selected by the Owner, and you pay the costs. This limits your options for resolving disputes and can be expensive.",
+      "obligations": [
+        "Participate in Owner-selected arbitration."
+      ],
+      "risks": [
+        "Arbitration costs can be significant."
+      ],
+      "severity": "medium",
+      "original_text": "Any disputes must be resolved through arbitration selected by Owner. Resident agrees to pay arbitration costs and waives rights to court proceedings.",
+      "score": 50
+    }
+  ]
+}

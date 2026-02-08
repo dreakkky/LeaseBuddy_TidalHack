@@ -1,0 +1,196 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,500;0,9..40,600;0,9..40,700&family=Space+Grotesk:wght@400;500;600;700&display=swap');
+
+.App {
+  text-align: center;
+}
+
+.header{
+  padding: 10px 0 10px 0;
+  background-color: rgb(240, 244, 251);
+  border: #000;
+  color: black;
+  font-family: 'Space Grotesk', system-ui, sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  text-align: left;
+  border-bottom: 1px solid rgb(230, 225, 219);
+  padding: 5px 10px;
+}
+.App-header {
+  background-color: rgb(240, 244, 251);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: rgb(47, 47, 47);
+}
+
+.App-main {
+  gap: 10px;
+  padding: 10px;
+  background-color: rgb(250, 248, 245);
+}
+
+.side-to-side{
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  padding-bottom: 10px;
+  align-items: center
+}
+
+.leaseBuddy-verdict{
+  padding: 40px;
+  background-color: rgb(220, 40, 40);
+  border-radius: 8px;
+  color: white;
+  margin-bottom: 20px;
+  text-align: left;
+}
+
+.container{
+  padding: 30px;
+  background-color: rgb(229, 231, 235);
+  border-radius: 8px;
+  color: #000;
+  text-align: left;
+  width: 400px;
+}
+.container p{
+  padding: 0px;
+}
+.container h3{
+  margin: 0px;
+}
+.file-box {
+  width: 300px;
+  height: 120px;
+  border: 2px dashed #bdbdbd;
+  border-radius: 8px;
+  background: #f7f7f7;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.file-label {
+  cursor: pointer;
+  font-size: 16px;
+  color: #555;
+}
+
+.file-input {
+  display: none;
+}
+
+/* Left Panel */
+.document-viewer {
+  text-align: left;
+  border-radius: 5px;
+  box-shadow: 1px 9px 8px 1px #00000070;
+  flex: 3;
+  height: 500px;
+  width: 100%;
+  min-width: 50%;
+  background-color: #eeeeee;
+  color: #000;
+}
+
+.document-viewer-file {
+  width: 100%;
+  height: 90%;
+  background-color: #d4d4d4;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 0 0 5px 5px;
+}
+
+.placeholder-text {
+  color: #888;
+  font-size: 14px;
+}
+
+.lease-image{
+  width: 100%;
+}
+/* Right Panel */
+.document-summary {
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 1px 3px 5px 1px #00000070;
+  flex: 1;
+  height: 500px;
+  min-width: 200px;
+  background-color: #eeeeee;
+  text-align: left;
+  overflow-y: auto;
+}
+
+.containers-text{
+  display: flex;
+  gap: 20px;
+}
+
+.information-text{
+  padding-bottom: 20px;
+  margin: 0;
+}
+.risk{
+  background-color: #ff6b6b;
+  text-align: left;
+  padding: 0 10px;
+  border-radius: 50px;
+}
+.document-viewer h3{
+  padding: 0 0 0 20px;
+}
+/* Summary sections */
+.summary-section {
+  margin-bottom: 15px;
+}
+
+.summary-section h4 {
+  margin-bottom: 5px;
+  color: #61dafb;
+}
+
+.summary-section ul {
+  padding-left: 18px;
+  font-size: 14px;
+}
+
+/* Red flags */
+.summary-section.red h4 {
+  color: #ff6b6b;
+}
+
+/* Binding clauses */
+.summary-section.binding h4 {
+  color: #ffd166;
+}
+
+/* Button */
+button {
+  margin: 20px 0;
+  padding: 0.6em 1.2em;
+  font-size: 1rem;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+  background-color: rgb(28, 82, 84);
+  color: white;
+  transition: transform 0.2s;
+  font-family: 'Space Grotesk', system-ui, sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.lease-image{
+  width: 100%;
+  box-shadow: 10px 1px 30px rgb(233, 239, 247);
+}
+
+button:hover {
+  transform: scale(1.05);
+}

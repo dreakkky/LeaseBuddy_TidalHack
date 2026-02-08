@@ -1,0 +1,111 @@
+{
+  "clauses": [
+    {
+      "clause_type": "rent",
+      "title": "Rent & Fees",
+      "summary": "This clause allows the landlord to increase fees at any time without notice, potentially increasing your monthly costs. It gives the landlord broad discretion over additional charges beyond the base rent.",
+      "obligations": [
+        "Pay base rent",
+        "Pay additional fees as determined by Landlord"
+      ],
+      "risks": [
+        "Unexpected rent increases",
+        "Unclear fee structure"
+      ],
+      "severity": "medium",
+      "original_text": "Tenant agrees to pay base rent plus any additional fees determined solely by Landlord at any time, without notice.",
+      "score": 40
+    },
+    {
+      "clause_type": "security_deposit",
+      "title": "Security Deposit",
+      "summary": "The security deposit is equal to three months’ rent, which is higher than standard. It is also non-refundable for any reason, meaning you may not get any of it back even for normal wear and tear.",
+      "obligations": [
+        "Pay a security deposit of three months’ rent"
+      ],
+      "risks": [
+        "Loss of a large deposit",
+        "Limited recourse for deposit return"
+      ],
+      "severity": "high",
+      "original_text": "A security deposit equal to three months’ rent is required and is nonnrefundable for any reason.",
+      "score": 20
+    },
+    {
+      "clause_type": "repairs",
+      "title": "Repairs & Maintenance",
+      "summary": "This clause makes the tenant responsible for *all* repairs, even structural or appliance failures, which is unusual. This could lead to significant out-of-pocket expenses for issues typically covered by landlords.",
+      "obligations": [
+        "Pay for all repairs",
+        "Maintain the property"
+      ],
+      "risks": [
+        "High repair costs",
+        "Responsibility for structural issues"
+      ],
+      "severity": "high",
+      "original_text": "Tenant is responsible for all repairs, including structural, plumbing, electrical, and appliance failures, regardless of cause.",
+      "score": 30
+    },
+    {
+      "clause_type": "entry",
+      "title": "Entry by Landlord",
+      "summary": "The landlord can enter the property at any time, without notice or a specific reason. This provides minimal privacy for the tenant and could be disruptive.",
+      "obligations": [
+        "Allow landlord entry at any time"
+      ],
+      "risks": [
+        "Loss of privacy",
+        "Unexpected interruptions"
+      ],
+      "severity": "medium",
+      "original_text": "Landlord may enter the premises at any time, without notice or reason.",
+      "score": 45
+    },
+    {
+      "clause_type": "termination",
+      "title": "Termination",
+      "summary": "The landlord can terminate the lease with only 3 days’ notice for any reason, while the tenant has no right to early termination. This offers limited security of tenure for the tenant.",
+      "obligations": [
+        "Vacate upon 3 days’ notice"
+      ],
+      "risks": [
+        "Sudden move-out requirement",
+        "Limited lease security"
+      ],
+      "severity": "medium",
+      "original_text": "Landlord may terminate this lease at any time, for any reason, with 3 days’ notice. Tenant may not terminate early under any circumstances.",
+      "score": 35
+    },
+    {
+      "clause_type": "rent_increase",
+      "title": "Rent Increases",
+      "summary": "The landlord can increase rent at any time during the lease term, providing little predictability for your housing costs. This makes budgeting more difficult.",
+      "obligations": [
+        "Pay increased rent"
+      ],
+      "risks": [
+        "Unexpected rent increases",
+        "Difficulty budgeting"
+      ],
+      "severity": "medium",
+      "original_text": "Rent may be increased at any time during the lease term, at Landlord’s discretion.",
+      "score": 40
+    },
+    {
+      "clause_type": "legal_rights",
+      "title": "Legal Rights",
+      "summary": "This clause significantly limits your legal options, preventing you from suing the landlord, joining class actions, or withholding rent even for habitability issues. It favors the landlord in disputes.",
+      "obligations": [
+        "Accept property 'as is'"
+      ],
+      "risks": [
+        "Limited legal recourse",
+        "Difficulty addressing habitability issues"
+      ],
+      "severity": "high",
+      "original_text": "Tenant waives the right to sue Landlord, join class actions, or withhold rent for habitability issues.",
+      "score": 25
+    }
+  ]
+}

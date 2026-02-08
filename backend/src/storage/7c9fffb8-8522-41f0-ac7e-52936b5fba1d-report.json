@@ -1,0 +1,111 @@
+{
+  "clauses": [
+    {
+      "clause_type": "fixed_term",
+      "title": "Fixed-Term Agreement",
+      "summary": "One-year lease, automatically converts to month-to-month unless terminated.",
+      "obligations": [
+        "Notify in writing 30 days before expiration to terminate."
+      ],
+      "risks": [
+        "Automatic conversion to month-to-month can lead to unexpected rent increases."
+      ],
+      "severity": "medium",
+      "original_text": "Tenants agree to lease this dwelling for a fixed term of one year, beginning July 1, 2012 and ending June 30, 2013. Upon expiration, this Agreement shall become a month-to-month agreement AUTOMATICALLY, UNLESS either Tenants or Owners notify the other party in writing at least 30 days prior to expiration that they do not wish this Agreement to continue on any basis."
+    },
+    {
+      "clause_type": "rent",
+      "title": "Rent Payment",
+      "summary": "Monthly rent of $685 due on the 1st, with a 3-day grace period.",
+      "obligations": [
+        "Pay rent by the 1st of each month.",
+        "Pay a $25 late fee plus $5 per day after the 4th."
+      ],
+      "risks": [
+        "Late payments can result in significant fees."
+      ],
+      "severity": "medium",
+      "original_text": "Tenant agrees to pay Landlord as base rent the sum of $685 per month, due and payable monthly in advance on the 1st day of each month during the term of this agreement. The first month’s rent is required to be submitted on or before move-in. Tenant hereby acknowledges that late payment will cause Landlord to incur costs not contemplated by this Rental Agreement. We allow for a 3 day grace period. In the event rent is not received prior to the 4th of the month, Tenant agrees to pay a $25 late fee, plus an additional $5 per day for every day thereafter until the rent is paid. Neither ill health, loss of job, financial emergency, or other excuses will be accepted for late payment."
+    },
+    {
+      "clause_type": "security_deposit",
+      "title": "Security Deposit",
+      "summary": "Deposit of $685, refundable after 60 days post-vacation.",
+      "obligations": [
+        "Return keys and vacate the property to receive the deposit."
+      ],
+      "risks": [
+        "Deposit may be withheld for damages or unpaid bills."
+      ],
+      "severity": "medium",
+      "original_text": "Tenants hereby agree to pay a security deposit of $685 to be refunded upon vacating, returning the keys to the Landlord and termination of this contract according to other terms herein agreed. This deposit will be held to cover any possible damage to the property. No interest will be paid on this money and in no case will it be applied to back or future rent. It will be held intact by Landlord until at least thirty (30) working days after Tenants have vacated the property. At that time Landlord will inspect the premises thoroughly and assess any damages and/or needed repairs. This deposit money minus any necessary charges for missing/dead light bulbs, repairs, cleaning, etc., will then be returned to Tenant with a written explanation of deductions, within 60 days after they have vacated the property."
+    },
+    {
+      "clause_type": "cleaning_fee",
+      "title": "Cleaning Fee",
+      "summary": "Minimum $200 cleaning fee if professional cleaning is required.",
+      "obligations": [
+        "Return the property in the same condition as received."
+      ],
+      "risks": [
+        "Failure to clean can result in a $200 fee."
+      ],
+      "severity": "medium",
+      "original_text": "Tenant hereby agrees to accept property in its present state of cleanliness. They agree to return the property in the same condition or pay a $200.00 minimum cleaning fee if the Landlord has to have the property professionally cleaned."
+    },
+    {
+      "clause_type": "removal_of_property",
+      "title": "Removal of Landlord's Property",
+      "summary": "Unauthorized removal of landlord's property constitutes abandonment.",
+      "obligations": [
+        "Obtain written consent to remove landlord's property."
+      ],
+      "risks": [
+        "Unauthorized removal can lead to lease termination and legal action."
+      ],
+      "severity": "high",
+      "original_text": "If anyone removes any property belonging to Landlord without the express written consent of the Landlord, this will constitute abandonment and surrender of the premises by Tenant and termination by them of this Rental Agreement. Landlord may also take further legal action."
+    },
+    {
+      "clause_type": "utilities",
+      "title": "Utilities Responsibility",
+      "summary": "Tenant pays for electricity, gas, heating, and other utilities.",
+      "obligations": [
+        "Pay all listed utilities.",
+        "Authorize landlord to deduct unpaid bills from security deposit."
+      ],
+      "risks": [
+        "Unpaid bills can result in security deposit deductions."
+      ],
+      "severity": "medium",
+      "original_text": "Resident will be responsible for payment of all utilities, telephone, gas, or other bills incurred during their residency. They specifically authorize Landlord to deduct amounts of unpaid bills from their Security Deposits in the event they remain unpaid after termination of this agreement. The Landlord/Owner agrees to only pay water, garbage, and sewer bills."
+    },
+    {
+      "clause_type": "notification_of_problems",
+      "title": "Notification of Building Problems",
+      "summary": "Tenant must notify landlord of serious building issues immediately.",
+      "obligations": [
+        "Report roof leaks, water spots, termite activity, and other serious issues."
+      ],
+      "risks": [
+        "Failure to report can result in financial responsibility."
+      ],
+      "severity": "medium",
+      "original_text": "Tenant agrees to notify Landlord immediately if roof leaks, water spots appear on ceiling, or at the first sign of termite activity. Tenants also agree to notify the Owners immediately upon first discovering any signs of serious building problems such as foundation cracks, a tilting porch, a crack in plaster, buckling drywall or siding, a spongy floor, a leaky water heater, etc. If the tenant does not notify landlord in a prompt matter the tenant may be held financially responsible."
+    },
+    {
+      "clause_type": "pets",
+      "title": "Pet Policy",
+      "summary": "Pets allowed with written permission and additional $25 monthly charge.",
+      "obligations": [
+        "Obtain written permission for pets.",
+        "Clean up after pets immediately."
+      ],
+      "risks": [
+        "Negligence can result in fines or deposit deductions."
+      ],
+      "severity": "medium",
+      "original_text": "Pets are allowed on the premises only by obtaining the Landlords’ written permission first. When possession of the property is given to the Tenant, only those pets listed on the Rental Application will be allowed unless subsequent written permission has been granted. “Pets” does not include animals trained to serve the handicapped, such as seeing-eye dogs, hearing dogs, or service dogs. These animals may be housed on the premises so long as they are in the direct service of those they were trained to serve and so long as Landlord is notified in advance in writing of the circumstances. In any case, when permission is granted, owners are required to pay an additional $25 per month pet-rent charge for one or more. Additionally, a pet-application sheet must be submitted before move-in. If problems with pets occur there are several ways it may be handled depending on the events. If the pet is in any way dangerous it will not be allowed on the premises. In the event of the owner being negligent in regards to clean-up or allowing access to areas that the pet could damage the tenant will be fined or money will be taken from the deposit. If the pet is a nuisance in any way the landlord may make suggestions to how the pet is cared for or may require the tenant to attend a training course to be approved by the landlord. Pets are never to be allowed in the yard unsupervised. Cleaning up after the pet is necessary immediately following defecation. Constant barking will not be permitted."
+    }
+  ]
+}

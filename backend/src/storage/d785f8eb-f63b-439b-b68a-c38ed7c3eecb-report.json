@@ -1,0 +1,106 @@
+{
+  "clauses": [
+    {
+      "clause_type": "Rent",
+      "title": "Fixed Rent & Fees",
+      "summary": "The monthly rent is fixed for the duration of the lease, providing budget predictability. This prevents the landlord from adding unexpected fees beyond those specifically listed in the agreement.",
+      "obligations": [
+        "Pay monthly rent on time.",
+        "Review the lease for all listed fees."
+      ],
+      "risks": [
+        "Dispute over what constitutes an 'explicitly listed' fee."
+      ],
+      "severity": "low",
+      "original_text": "Monthly rent is fixed for the lease term. No additional fees may be charged unless explicitly listed in this agreement.",
+      "score": 90
+    },
+    {
+      "clause_type": "Security Deposit",
+      "title": "Full Refundable Deposit",
+      "summary": "The security deposit is equal to one month’s rent and is fully refundable, offering good protection against unfair charges. The clause specifies that only documented damages beyond normal wear and tear can be deducted.",
+      "obligations": [
+        "Document the condition of the property at move-in.",
+        "Leave the property in reasonably good condition."
+      ],
+      "risks": [
+        "Disagreement over what constitutes 'normal wear and tear'."
+      ],
+      "severity": "low",
+      "original_text": "Security deposit equals one month’s rent and is fully refundable, minus documented damages beyond normal wear and tear.",
+      "score": 85
+    },
+    {
+      "clause_type": "Repairs & Maintenance",
+      "title": "Landlord Responsibility",
+      "summary": "The landlord is responsible for all major repairs, minimizing tenant expenses and inconvenience. Tenants are only responsible for minor damage they cause, which is a favorable arrangement.",
+      "obligations": [
+        "Report maintenance issues promptly.",
+        "Limit damage to minor, tenant-caused issues."
+      ],
+      "risks": [
+        "Delays in major repairs if landlord is slow to respond."
+      ],
+      "severity": "low",
+      "original_text": "Landlord is responsible for all major repairs, including plumbing, electrical, heating, and appliances. Tenant is responsible only for minor, tenantncaused damage.",
+      "score": 95
+    },
+    {
+      "clause_type": "Entry",
+      "title": "Landlord Entry with Notice",
+      "summary": "The landlord must provide 24 hours’ notice before entering the property, protecting tenant privacy. Exceptions are made for emergencies, which is standard and reasonable.",
+      "obligations": [
+        "Allow landlord entry with reasonable notice."
+      ],
+      "risks": [
+        "Landlord occasionally enters without proper notice."
+      ],
+      "severity": "low",
+      "original_text": "Landlord must provide at least 24 hours’ notice before entry, except in emergencies.",
+      "score": 80
+    },
+    {
+      "clause_type": "Termination",
+      "title": "Early Termination Rights",
+      "summary": "The tenant can terminate the lease early with 30 days’ notice and a reasonable fee, offering flexibility. The landlord can only terminate for 'legal cause,' providing good protection against arbitrary eviction.",
+      "obligations": [
+        "Provide 30 days’ notice for early termination.",
+        "Pay the defined early termination fee."
+      ],
+      "risks": [
+        "Dispute over what constitutes a 'reasonable' termination fee."
+      ],
+      "severity": "low",
+      "original_text": "Tenant may terminate early with 30 days’ notice and a reasonable, clearly defined earlyntermination fee. Landlord may terminate only for legal cause.",
+      "score": 90
+    },
+    {
+      "clause_type": "Rent Increase",
+      "title": "Fixed Rent During Term",
+      "summary": "Rent cannot be increased during the lease term, providing financial stability for the tenant. This prevents unexpected rent hikes mid-lease.",
+      "obligations": [
+        "Pay the agreed-upon rent amount."
+      ],
+      "risks": [
+        "Rent may increase upon lease renewal."
+      ],
+      "severity": "low",
+      "original_text": "Rent cannot be increased during the lease term.",
+      "score": 95
+    },
+    {
+      "clause_type": "Legal Rights",
+      "title": "Tenant Legal Rights",
+      "summary": "The tenant retains all legal rights under state and federal law, including habitability protections. This ensures the tenant is protected by standard legal frameworks.",
+      "obligations": [
+        "Be aware of tenant rights under state and federal law."
+      ],
+      "risks": [
+        "Need to research and understand applicable laws."
+      ],
+      "severity": "low",
+      "original_text": "Tenant retains all legal rights under state and federal law, including habitability protections.",
+      "score": 85
+    }
+  ]
+}

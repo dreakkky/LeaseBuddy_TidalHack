@@ -1,0 +1,64 @@
+{
+  "clauses": [
+    {
+      "clause_type": "parties",
+      "title": "Parties",
+      "summary": "Identifies the parties involved in the lease agreement, including the landlord and tenant.",
+      "obligations": [],
+      "risks": [],
+      "severity": "low",
+      "original_text": "1. PARTIES. This Residential Lease Agreement (“Agreement”) made this ___________ is between: Landlord Name: ____________________________________________ with a mailing address of: _________________________________________________ (“Landlord”), AND Tenant Name(s): ____________________________________________ (“Tenant(s)”). Landlord and Tenant are each collectively referred to as the \"Parties.\"",
+      "score": 80
+    },
+    {
+      "clause_type": "property",
+      "title": "Property",
+      "summary": "Describes the property being leased, including its address and type.",
+      "obligations": [],
+      "risks": [],
+      "severity": "low",
+      "original_text": "2. PROPERTY. The Landlord agrees to lease the described property to the Tenant: Address: ______________________________________________________ (“Premises”). Residence Type: ☐ Single-family ☐ Apartment ☐ Condominium ☐ Other: ____________",
+      "score": 80
+    },
+    {
+      "clause_type": "term",
+      "title": "Term",
+      "summary": "Specifies the start and end dates of the lease term.",
+      "obligations": [],
+      "risks": [],
+      "severity": "low",
+      "original_text": "3. TERM. The Agreement shall begin on _________________ and end on _________________ (“Term”).",
+      "score": 80
+    },
+    {
+      "clause_type": "rent",
+      "title": "Rent",
+      "summary": "Details the amount of rent, payment frequency, and due date.",
+      "obligations": [
+        "Pay rent in equal monthly installments.",
+        "Ensure rent is paid by the specified due date."
+      ],
+      "risks": [
+        "Late payments may result in penalties or eviction."
+      ],
+      "severity": "medium",
+      "original_text": "4. RENT. The Tenant shall pay the Landlord in equal monthly installments of $___________ (“Rent”). The Rent shall be due on the ____ of every month and paid under the following instructions: ____________________________________________________________________________.",
+      "score": 70
+    },
+    {
+      "clause_type": "security_deposit",
+      "title": "Security Deposit",
+      "summary": "Outlines the security deposit requirements, including the amount and return conditions.",
+      "obligations": [
+        "Deposit the specified amount as security.",
+        "Allow deductions for damages upon move-out."
+      ],
+      "risks": [
+        "Deposit may be withheld for damages beyond normal wear and tear."
+      ],
+      "severity": "medium",
+      "original_text": "5. SECURITY DEPOSIT. The Tenant (check one): ☐ Shall deposit with the Landlord the sum of $___________ as security for any damage caused to the Premises during the Term. Such deposit shall be returned to the Tenant, less any itemized deductions, within ______ days after the end of the Term. ☐ Shall NOT be required to pay a security deposit.",
+      "score": 60
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "clauses": [
+    {
+      "clause_type": "term",
+      "title": "Lease Term",
+      "summary": "This clause defines the start and end dates of the lease agreement. Knowing the term is crucial for planning and understanding your commitment to the property.",
+      "obligations": [
+        "Tenant must occupy the premises for the full term.",
+        "Tenant must vacate by the end of the term."
+      ],
+      "risks": [
+        "Automatic renewal if not properly noticed before the end of the term."
+      ],
+      "severity": "low",
+      "original_text": "The Agreement shall begin on _________________ and end on _________________ (“Term”).",
+      "score": 80
+    },
+    {
+      "clause_type": "rent",
+      "title": "Rent Payment",
+      "summary": "This clause establishes the monthly rent amount and due date. Consistent, on-time rent payments are essential to avoid late fees and potential eviction.",
+      "obligations": [
+        "Tenant must pay rent in the amount specified.",
+        "Tenant must pay rent on the date specified."
+      ],
+      "risks": [
+        "Late fees if rent is not paid on time."
+      ],
+      "severity": "low",
+      "original_text": "The Tenant shall pay the Landlord in equal monthly installments of $___________ (“Rent”). The Rent shall be due on the ____ of every month and paid under the following instructions: ____________________________________________________________________________.",
+      "score": 75
+    },
+    {
+      "clause_type": "security_deposit",
+      "title": "Security Deposit",
+      "summary": "This clause details the amount of the security deposit and the conditions for its return. The deposit protects the landlord against damage beyond normal wear and tear.",
+      "obligations": [
+        "Tenant must pay the security deposit (if required)."
+      ],
+      "risks": [
+        "Potential loss of deposit due to damage."
+      ],
+      "severity": "low",
+      "original_text": "The Tenant (check one): ☐ Shall deposit with the Landlord the sum of $___________ as security for any damage caused to the Premises during the Term. Such deposit shall be returned to the Tenant, less any itemized deductions, within ______ days after the end of the Term.",
+      "score": 70
+    }
+  ]
+}

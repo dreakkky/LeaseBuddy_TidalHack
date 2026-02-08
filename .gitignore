@@ -1,0 +1,54 @@
+# =====================
+# OS junk
+# =====================
+.DS_Store
+Thumbs.db
+
+# =====================
+# Node (ALL node_modules)
+# =====================
+node_modules/
+**/node_modules/
+
+# =====================
+# Vite / Frontend
+# =====================
+dist/
+.vite/
+
+# =====================
+# Backend secrets
+# =====================
+backend/.env
+backend/.env.*
+
+# =====================
+# Backend storage (ignore EVERYTHING inside)
+# =====================
+backend/src/storage/**
+!backend/src/storage/.gitkeep
+backend/tmp/**
+!backend/tmp/.gitkeep
+
+# =====================
+# Python
+# =====================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+venv/
+.venv/
+env/
+
+# =====================
+# Logs
+# =====================
+*.log
+logs/
+
+# =====================
+# Editors
+# =====================
+.vscode/
+.idea/

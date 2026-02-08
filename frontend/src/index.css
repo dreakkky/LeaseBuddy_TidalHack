@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  font-family: 'Space Grotesk', system-ui, sans-serif;
+  background-color: rgb(250, 248, 245);
+  color: #000;
+}
+
+h1, p {
+  margin: 0.5em 0;
+}
