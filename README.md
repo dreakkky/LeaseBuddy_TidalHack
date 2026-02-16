@@ -1,6 +1,6 @@
 # Lease Buddy
 Have you ever had trouble reading all that legal jargon in the dozens of pages the landlords call a lease? LeaseBuddy scans your lease, exposes junk fees and sketchy clauses, and turns legal fine print into clear, simple terms you can understand before signing.
-**Link to project:** http://placecorgi.com/1200/650](https://devpost.com/software/leasebuddy)
+**Link to project:** https://devpost.com/software/leasebuddy
 
 ## How It's Made:
 
